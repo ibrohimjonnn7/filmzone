@@ -1,0 +1,23 @@
+.card {
+    background: #f5f5f5;
+    padding: 15px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.03);
+  }
+  
+  .poster {
+    height: 130px;
+    background: #ddd;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .year {
+    opacity: 0.6;
+  }
+  
