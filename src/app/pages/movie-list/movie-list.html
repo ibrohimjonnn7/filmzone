@@ -2,7 +2,6 @@
 
 <input type="text" [(ngModel)]="searchText" placeholder="Поиск фильмов..." class="search-input" />
 
-
 <div class="grid">
     <app-movie-card *ngFor="let movie of filteredMovies" [movie]="movie" (click)="openMovie(movie)"></app-movie-card>
 </div>

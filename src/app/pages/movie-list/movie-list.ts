@@ -4,11 +4,12 @@ import { MovieCard } from '../../components/movie-card/movie-card';
 import { MovieModal } from './../../components/movie-modal/movie-modal';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { MatDialog } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-movie-list',
   standalone: true,
-  imports: [NgFor, NgIf, MovieCard, MovieModal, HttpClientModule, FormsModule],
+  imports: [NgFor, NgIf, MovieCard, MovieModal, HttpClientModule, FormsModule, ],
   templateUrl: './movie-list.html',
   styleUrls: ['./movie-list.css'],
 })

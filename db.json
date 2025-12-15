@@ -1,21 +1,34 @@
 {
-    "movies": [
-      {
-        "id": 1,
-        "title": "Начало",
-        "year": 2010,
-        "genres": ["Боевик", "Фантастика"],
-        "rating": 8.8,
-        "description": "Вор, похищающий секреты корпорации..."
-      },
-      {
-        "id": 2,
-        "title": "Интерстеллар",
-        "year": 2014,
-        "genres": ["Драма", "Фантастика"],
-        "rating": 8.6,
-        "description": "Команда исследователей отправляется..."
-      }
-    ]
-  }
-  
+  "movies": [
+    { "id": 1, "title": "Начало", "year": 2010, "genres": ["Боевик", "Фантастика"], "rating": 8.8, "description": "Вор, похищающий секреты корпорации через проникновение в сны.", "posterUrl": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg" },
+    { "id": 2, "title": "Интерстеллар", "year": 2014, "genres": ["Драма", "Фантастика"], "rating": 8.6, "description": "Команда исследователей отправляется через червоточину в космосе.", "posterUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg" },
+    { "id": 3, "title": "Темный рыцарь", "year": 2008, "genres": ["Боевик", "Драма"], "rating": 9.0, "description": "Бэтмен сталкивается с хаосом, который приносит Джокер.", "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg" },
+    { "id": 4, "title": "Матрица", "year": 1999, "genres": ["Фантастика", "Боевик"], "rating": 8.7, "description": "Хакер узнает правду о реальности, в которой живет человечество.", "posterUrl": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" },
+    { "id": 5, "title": "Гладиатор", "year": 2000, "genres": ["Драма", "Боевик"], "rating": 8.5, "description": "Римский генерал становится гладиатором ради мести.", "posterUrl": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" },
+    { "id": 6, "title": "Форрест Гамп", "year": 1994, "genres": ["Драма", "Мелодрама"], "rating": 8.8, "description": "История простого человека с большим сердцем.", "posterUrl": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg" },
+    { "id": 7, "title": "Бойцовский клуб", "year": 1999, "genres": ["Драма", "Триллер"], "rating": 8.8, "description": "Подпольный клуб, который перерастает в нечто большее.", "posterUrl": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg" },
+    { "id": 8, "title": "Криминальное чтиво", "year": 1994, "genres": ["Криминал", "Драма"], "rating": 8.9, "description": "Переплетающиеся истории преступного мира Лос-Анджелеса.", "posterUrl": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" },
+    { "id": 9, "title": "Властелин колец: Братство кольца", "year": 2001, "genres": ["Фэнтези", "Приключения"], "rating": 8.8, "description": "Начало великого путешествия ради спасения Средиземья.", "posterUrl": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg" },
+    { "id": 10, "title": "Властелин колец: Две крепости", "year": 2002, "genres": ["Фэнтези", "Приключения"], "rating": 8.7, "description": "Битва за судьбу мира продолжается.", "posterUrl": "https://image.tmdb.org/t/p/w500/9DeGfFIqjph5CBFVQrD6wv9S7rF.jpg" },
+    { "id": 11, "title": "Властелин колец: Возвращение короля", "year": 2003, "genres": ["Фэнтези", "Приключения"], "rating": 9.0, "description": "Финальная битва за Средиземье.", "posterUrl": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg" },
+    { "id": 12, "title": "Зеленая миля", "year": 1999, "genres": ["Драма", "Фэнтези"], "rating": 8.6, "description": "Необычный заключенный с даром исцеления.", "posterUrl": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg" },
+    { "id": 13, "title": "Побег из Шоушенка", "year": 1994, "genres": ["Драма"], "rating": 9.3, "description": "История надежды и свободы в тюрьме.", "posterUrl": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg" },
+    { "id": 14, "title": "Титаник", "year": 1997, "genres": ["Драма", "Мелодрама"], "rating": 7.9, "description": "Любовь на фоне трагедии великого корабля.", "posterUrl": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" },
+    { "id": 15, "title": "Аватар", "year": 2009, "genres": ["Фантастика", "Приключения"], "rating": 7.8, "description": "Путешествие на планету Пандора.", "posterUrl": "https://image.tmdb.org/t/p/w500/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg" },
+    { "id": 16, "title": "Джокер", "year": 2019, "genres": ["Драма", "Триллер"], "rating": 8.4, "description": "История становления культового злодея.", "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" },
+    { "id": 17, "title": "Доктор Стрэндж", "year": 2016, "genres": ["Фантастика", "Боевик"], "rating": 7.5, "description": "Хирург открывает мир магии.", "posterUrl": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" },
+    { "id": 18, "title": "Мстители", "year": 2012, "genres": ["Боевик", "Фантастика"], "rating": 8.0, "description": "Супергерои объединяются для спасения Земли.", "posterUrl": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" },
+    { "id": 19, "title": "Мстители: Финал", "year": 2019, "genres": ["Боевик", "Фантастика"], "rating": 8.4, "description": "Финальная битва против Таноса.", "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg" },
+    { "id": 20, "title": "Железный человек", "year": 2008, "genres": ["Боевик", "Фантастика"], "rating": 7.9, "description": "Миллиардер создает высокотехнологичную броню.", "posterUrl": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg" },
+    { "id": 21, "title": "Человек-паук", "year": 2002, "genres": ["Боевик", "Фантастика"], "rating": 7.4, "description": "Школьник получает суперспособности.", "posterUrl": "https://image.tmdb.org/t/p/w500/rweIrveL43TaxUN0akQEaAXL6x0.jpg" },
+    { "id": 22, "title": "Человек-паук: Нет пути домой", "year": 2021, "genres": ["Боевик", "Фантастика"], "rating": 8.2, "description": "Паук сталкивается с мультивселенной.", "posterUrl": "https://image.tmdb.org/t/p/w500/uJvFZkN4t43T4T2XbK4Y84ZOHUE.jpg" },
+    { "id": 23, "title": "Пираты Карибского моря", "year": 2003, "genres": ["Приключения", "Фэнтези"], "rating": 8.0, "description": "Приключения капитана Джека Воробья.", "posterUrl": "https://image.tmdb.org/t/p/w500/3Ah4M9Ei7lWWsK3pJxg8Pa6wK4R.jpg" },
+    { "id": 24, "title": "Терминатор 2", "year": 1991, "genres": ["Боевик", "Фантастика"], "rating": 8.5, "description": "Киборг возвращается, чтобы защитить будущее.", "posterUrl": "https://image.tmdb.org/t/p/w500/5cKriTfx8FAf0Uvn8mrLaMks1yA.jpg" },
+    { "id": 25, "title": "Назад в будущее", "year": 1985, "genres": ["Фантастика", "Комедия"], "rating": 8.5, "description": "Путешествие во времени начинается.", "posterUrl": "https://image.tmdb.org/t/p/w500/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg" },
+    { "id": 26, "title": "Шрек", "year": 2001, "genres": ["Мультфильм", "Комедия"], "rating": 7.9, "description": "Огр отправляется спасать принцессу.", "posterUrl": "https://image.tmdb.org/t/p/w500/9TZX5pQt7x4k2Vq5RzH79ewb0.jpg" },
+    { "id": 27, "title": "Король Лев", "year": 1994, "genres": ["Мультфильм", "Драма"], "rating": 8.5, "description": "История львенка, ставшего королем.", "posterUrl": "https://image.tmdb.org/t/p/w500/2t5ZKXtvFqiMG3UAtTnX5IMhH.jpg" },
+    { "id": 28, "title": "Дюна", "year": 2021, "genres": ["Фантастика", "Драма"], "rating": 8.1, "description": "Борьба за контроль над планетой Арракис.", "posterUrl": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" },
+    { "id": 29, "title": "Бегущий по лезвию 2049", "year": 2017, "genres": ["Фантастика", "Триллер"], "rating": 8.0, "description": "Тайны будущего мира репликантов.", "posterUrl": "https://image.tmdb.org/t/p/w500/nnDi4Y7X7XrnYJso3b0chXxE8US.jpg" },
+    { "id": 30, "title": "Опенгеймер", "year": 2023, "genres": ["Драма", "История"], "rating": 8.4, "description": "История создания атомной бомбы.", "posterUrl": "https://image.tmdb.org/t/p/w500/v0f5o2g0M1Hh0NfJwNbbwBC4F8y.jpg" }
+  ]
+}

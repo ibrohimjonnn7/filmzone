@@ -2,7 +2,7 @@
 <br>
 <br>
 <div class="card">
-    <div class="poster"></div>
+    <img class="poster" [src]="movie.posterUrl || 'assets/default-poster.jpg'" alt="{{ movie.title }}" />
     <h3>{{ movie.title }}</h3>
     <p class="year">{{ movie.year }}</p>
 </div>
